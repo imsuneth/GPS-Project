@@ -1,1 +1,3 @@
 https://astronomy.stackexchange.com/questions/7747/how-to-compute-satellite-coordinates-lat-long-given-antennas-coordinates-ang
+
+https://math.stackexchange.com/questions/69637/calculating-point-on-circle-after-time
